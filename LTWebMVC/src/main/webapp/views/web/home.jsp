@@ -3,6 +3,7 @@
 <%@ include file="/common/taglib.jsp" %>
 <div class="container">
     <div class="row">
+    	<h1>Tao thay doi file home.jsp: Thinh</h1>
         <div class="col">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
